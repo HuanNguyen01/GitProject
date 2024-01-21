@@ -1,0 +1,10 @@
+quá trình lập trình 
+- LÊN Ý TƯỜNG => khách hàng yêu cầu
+- phân tích ý tưởng=> ltv có kinh nghiệm
+- thiết  kế
+- thống nhất phương pháp
+- viết code=> thực thi các tính năng
+	- giải quyết các vấn đề gặp phải=> giải thuật cho các vấn đề
+- kiểm thử => ltv or tester
+- bảo trì
+- phát triển mới/ nâng cấp
